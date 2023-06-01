@@ -1,0 +1,136 @@
+/*fixed font position and background*/
+body {
+    padding:0%;
+    margin:0%;
+    background-image: url("pics/bg.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-family:'Quicksand';
+    text-align: center;
+}
+
+/*CSS for the button */
+button{
+    background-color: rgba(255, 255, 255, 0.25);
+    outline: #ffffff solid 1px;
+    border: 0;
+
+    color: #ffffff;
+    transition-duration: 0.4s;
+}
+
+button:hover{
+    background-color: rgba(186, 186, 186, 0.25);
+    outline: #cecece solid 1px;
+    border: 0;
+
+    color: #ababab;
+
+    transition-duration: 0.4s;
+}
+
+/*Fumo Image*/
+#Fumo{
+    width:300px;
+    height:300px;
+
+    float: left;
+    margin-left: 10%;
+}
+
+/*to bind settings icon to a certain spot*/
+#settings{
+    position: fixed;
+    padding-right: 35px;
+    padding-bottom: 50px;
+
+    bottom: 0;
+    right: 0;
+
+    height: 50px;
+    width:50px;
+
+    transition-duration: 0.3s;
+}
+
+#settings:hover{
+    position: fixed;
+    padding-right: 35px;
+    padding-bottom: 50px;
+
+    bottom: 0;
+    right: 0;
+
+    height: 55px;
+    width:55px;
+
+    transition-duration: 0.3s;
+}
+
+/*The title on the top of the site*/
+#Site-title{
+    padding-top: 4%;
+    font-size: 50px;
+
+    color: #ffffff;
+    text-decoration: none;
+
+    letter-spacing: 0px;
+    transition-duration: 0.4s;
+}
+
+/*The hover animation for The title on the top of the site*/
+#Site-title:hover{
+    padding-top: 4%;
+    font-size: 50px;
+
+    color: #ffffff;
+    text-decoration: none;
+
+    letter-spacing: 1px;
+    transition-duration: 0.4s;
+}
+
+/*Background on top of the imaged background*/
+.subbg{
+    background-color: rgba(255, 255, 255, 0.25);
+    padding-left: 3%;
+    padding-bottom: 4%;
+    outline: #ffffff solid 1px;
+    margin: 2%;
+
+    /*height: 40vw;*/
+
+    color: #ffffff;
+
+    border-radius: 20px;
+    
+}
+
+/*All output including Image + Name + Genre*/
+#output{
+    padding-top: 4%;
+    padding-bottom: 6%;
+}
+
+#Name{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#Genre{
+    font-size: 30px;
+}
+
+.box-spacing{
+    margin-top: 1%;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
