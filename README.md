@@ -1,5 +1,5 @@
 # RandomFumosSite
-A website made for fun that serves the purpose of generating random fumos with a click of a button
+A [website](https://zacharinhenri.github.io/RandomFumosSite/) made for fun that serves the purpose of generating random fumos with a click of a button
 Fumos featured are currently from Touhou , VOCALOID .
 
 # Website Preview
