@@ -20,6 +20,7 @@ Fumos featured are currently from Touhou , VOCALOID .
 
 ## Fumos to add
 - [ ] FGO / Fate
+- [ ] Bocchi the Rock
 
 ### Suggestions and Requests
 *Any fumo suggestions from any other communities or any cool feature requests are also welcomed feel free to send in a request in [Issues](https://github.com/ZacharinHenri/Mouse-Pad-Preview/issues) tab*
