@@ -1,224 +1,222 @@
-
-
 var images = [
     {
-        src: "https://fumo.website/img/853.jpg",
+        src: "Fumos/853.jpg",
         label: "Sakuya Izayoi Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://fumo.website/img/897.jpg",
+        src: "Fumos/897.jpg",
         label: "Reimu Hakurei Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://fumo.website/img/898.jpg",
+        src: "Fumos/898.jpg",
         label: "Marisa Kirisame Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://fumo.website/img/851.jpg",
+        src: "Fumos/851.jpg",
         label: "Remilia Scarlet Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://img.amiami.com/images/product/main/222/GOODS-04246799.jpg",
+        src: "Fumos/492.jpg",
         label: "Patchiouli Knowledge Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://pbs.twimg.com/media/FVqMxoyUAAAS1XZ.jpg",
+        src: "Fumos/007.jpg",
         label: "Alice Margatroid Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://static.myfigurecollection.net/upload/items/1/12891-077a6.jpg",
+        src: "Fumos/008.jpg",
         label: "Flandre Scarlet Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://images.goodsmile.info/cgm/images/product/20100422/2858/9971/large/72d6e71a4ab9379e572cd32ccf4e5fb1.jpg",
+        src: "Fumos/013.jpg",
         label: "Sanae Kochiya Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://static.myfigurecollection.net/upload/items/2/1661588-5c087.jpg",
+        src: "Fumos/014.jpg",
         label: "Cirno Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://img.amiami.jp/images/product/main/224/GOODS-04281053.jpg",
+        src: "Fumos/015.jpg",
         label: "Suwako Moriya Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://img.amiami.com/images/product/main/232/GOODS-04347181.jpg",
+        src: "Fumos/039.jpg",
         label: "Youmu Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://img.amiami.com/images/product/thumb300/232/GOODS-04347183.jpg",
+        src: "Fumos/040.jpg",
         label: "Yuyuko Saigyouji Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://www.picclickimg.com/oGYAAOSwRFpkYFoe/Gift-Touhou-Project-Plush-Doll-58-ver-15.webp",
+        src: "Fumos/056.jpg",
         label: "Hong Mei Ling Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://m.media-amazon.com/images/I/51-092Le4SL._AC_UF1000,1000_QL80_.jpg",
+        src: "Fumos/080.jpg",
         label: "Chen Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://www.picclickimg.com/bMMAAOSwQqBkXZXd/With-Badge-Touhou-Project-Ran-Yakumo-ver15-Plush.webp",
+        src: "Fumos/081.jpg",
         label: "Ran Yakumo Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://images-na.ssl-images-amazon.com/images/I/51jtUnMtAXL._AC_UL210_SR210,210_.jpg",
+        src: "Fumos/082.jpg",
         label: "Yukari Yakumo Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://m.media-amazon.com/images/I/41XcxvBir+L._AC_SY780_.jpg",
+        src: "Fumos/138.jpg",
         label: "Kaguya Houraisan Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://m.media-amazon.com/images/I/41DAVRkvBtL._SS400_.jpg",
+        src: "Fumos/139.jpg",
         label: "Mokou No Fujiwara Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://fumo.website/img/820.jpg",
+        src: "Fumos/820.jpg",
         label: "Satori Komeji Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://fumo.website/img/821.jpg",
+        src: "Fumos/821.jpg",
         label: "Koishi Komeji Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/1-IAAOSwYCNkORtm/s-l1600.jpg",
+        src: "Fumos/236.jpg",
         label: "Reisen Udongein Inaba Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/y50AAOSwB2pjjvSy/s-l400.jpg",
+        src: "Fumos/237.jpg",
         label: "Tewi Inaba Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://www.ubuy.kr/productimg/?image=aHR0cHM6Ly9pLmViYXlpbWcuY29tL2ltYWdlcy9nL0QySUFBT1N3UEFsZHNrSkUvcy1sNTAwLmpwZw.jpg",
+        src: "Fumos/310.jpg",
         label: "Hata no Kokoro Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/0ZcAAOSwpk5idNb5/s-l1600.jpg",
+        src: "Fumos/454.jpg",
         label: "Kasen Ibaraki Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://media.karousell.com/media/photos/products/2022/10/26/gift_touhou_plush_series_1666773099_5810f83a_progressive",
+        src: "Fumos/493.jpg",
         label: "Aya Shameimaru Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://cdn.shopify.com/s/files/1/0318/2649/products/n494-001.jpg?v=1571443508",
+        src: "Fumos/494.jpg",
         label: "Hatate Himekaidou Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://m.media-amazon.com/images/I/71Tz4+QQVNL.jpg",
+        src: "Fumos/593.jpg",
         label: "Tenshi Hinanawi Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/MTwAAOSwkQJdnNP7/s-l1600.jpg",
+        src: "Fumos/644.jpg",
         label: "Shion Yorigami Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/5pwAAOSwWERjvn4b/s-l500.jpg",
+        src: "Fumos/685.jpg",
         label: "Yuuka Kazami Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://static.myfigurecollection.net/upload/items/1/1055132-a27a3.jpg",
+        src: "Fumos/773.jpg",
         label: "Momiji Inubashiri Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/bqgAAOSw791i6ouC/s-l400.jpg",
+        src: "Fumos/807.jpg",
         label: "Eirin Yagokoro Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://cdn.shopify.com/s/files/1/0318/2649/products/51pbaWdh1cL._AC_SL1000_900x.jpg?v=1645675603",
+        src: "Fumos/834.jpg",
         label: "Rumia Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://static.myfigurecollection.net/upload/items/2/1324913-78749.jpg",
+        src: "Fumos/835.jpg",
         label: "Shiki Eiki Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/q-MAAOSwpFBjJsrL/s-l1600.jpg",
+        src: "Fumos/836.jpg",
         label: "Nitori Kawashiro Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/CugAAOSwAmJhwTyt/s-l1600.jpg",
+        src: "Fumos/837.jpg",
         label: "Joon Yorigami Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://cdn.lazyshop.com/files/ff33716b-be66-431a-9a5d-aba48a70cbcc/product/e03e8437c83a7633f4b40f98834a85fa.jpeg",
+        src: "Fumos/899.jpg",
         label: "Renko Usami Fumo",
         genre: "Touhou",
     },
 
     {
-        src: "https://i.ebayimg.com/images/g/5SQAAOSwPeNivnL0/s-l500.jpg",
+        src: "Fumos/900.jpg",
         label: "Toyosatomimi no Miko Fumo",
         genre: "Touhou",
     },
